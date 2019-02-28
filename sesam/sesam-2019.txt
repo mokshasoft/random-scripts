@@ -1,0 +1,81 @@
+ 1294 3089 3301 ; gurka ; Muromsk Drue
+ 3036 ; gurka ; Northern Pickling
+ 3089 ; Melon ; Early Silver Line
+ 307 ; pumpa ; Fikonbladspumpa
+ 2828 ; blomsterböna ; Enorma
+ 175 ; blomsterböna ; Silute
+ 305 ; bondböna ; Rönnäs
+ 2880G ; bondböna ; Ösel
+ 112 ; kokböna ; Bert Goodwin
+ 2075 ; kokböna ; Caffer
+ 264 ; kokböna ; Emperor of Russia
+ 1294 2151 2168 ; kokböna ; Äkta tranbär
+ 305 ; trädgårdsärt ; Alfta
+ 1294 1838 3337 ; trädgårdsärt ; Bergslagen
+ 2168 2174 3007 3095 3337 ; trädgårdsärt ; Biskopens ärtor
+ 305 2167 2168 2605 2730 3095 ; trädgårdsärt ; Rättviksärt
+ 162 ; kokärt ; Gaperhult
+ 307 1517 ; mangold ; Perpetual Spinach
+ 43 ; endivesallat ; Golda
+ 43 ; endivesallat ; Wagners Goldherz
+ 257 ; målla ; Japansk spenat
+ 1625 ; målla ; Rubra
+ 2958 ; målla ; Ruby Red
+ 2980 ; målla ; Sinanders
+ 2452 ; bladgrönt ; Blodskräppa
+ 43 ; bladgrönt ; Bärmålla
+ 1932 ; bladgrönt ; Kryddkrasse 'Wrinkled Crinkled Cress'
+ 305 ; vitkål ; Säfstaholm
+ 2255 2880 ; grönkål ; Baltisk röd
+ 1625 ; bladgrönt ; Löktrav
+ 1338 1625 2010 2980G ; bladgrönt ; Malabarspenat
+ 1941 3098 ; bladgrönt ; Rankspenat
+ 1817 ; bladgrönt ; Smörgåskrasse, bredbladig
+ 43 2478 2613 ; bladgrönt ; Spenatskräppa
+ 2800 ; bladgrönt ; Trädgårdsportlak
+ 2456 ; potatislök ; Beddinge
+ 924G ; övrig lök ; Kinesisk gräslök
+ 1338 1517 1625 1711 1941 2251 2395 2477 2617 ; övrig lök ; Piplök
+ 43 ; övrig lök ; Prärielök
+ 922G 1625 ; övrig lök ; Rosenlök
+ 257G ; beta ; Bordo
+ 257 ; beta ; Criewener Gelbe
+ 1986 ; beta ; Edmunds Blood
+ 305 ; kålrot ; Klint Karin
+ 305 ; kålrot ; Ljustorp
+ 305 ; kålrot ; Sandvik
+ 1638G ; rova ; Korova
+ 1638G ; rova ; Svedjerova från Värmland
+ 1245 ; svartrot ; Geante Noire de Russie
+ 3161 ; rötter ; Rapunkelklocka
+ 43 ; rötter ; Sockerrot
+ 3161G ; rötter ; Yacon
+ 2665 ; säd ; Vipphirs
+ 2473 ; krydd ; Björnrot
+ 1305 ; krydd ; Citronmålla
+ 1625 ; krydd ; Fjällkvanne
+ 1141 ; krydd ; Gurkört
+ 264 ; krydd ; Koriander
+ 1305 3106 ; krydd ; Kvanne
+ 1660 3161 ; krydd ; Persiljia 'Gigante d´Italia'
+ 264 ; krydd ; Persilja 'Mosskrusig'
+ 1377 ; krydd ; Persilja 'Extra mosskrusig'
+ 1176 1978 ; krydd ; Salvia
+ 948 ; krydd ; Skörbjuggsört
+ 1978 ; krydd ; Strandloka
+ 590 1941 ; medicinal ; Hjärtstilla
+ 948 1225 1305 2010 2595 3110 ; medicinal ; Mariatistel
+ 3461 ; medicinal ; Röd solhatt
+ 1305 ; medicinal ; Sibirisk hjärtstilla
+ 3772 ; medicinal ; Tobak 'Perique'
+ 3772 ; medicinal ; Tobak 'Åhustobak'
+ 162 1294 2609 ; medicinal ; Tobak 'Mor Alida'
+ 3106 ; medicinal ; Ålandsrot
+ 1625 ; blomster ; Kirgislök
+ 590 3726 ; blomster ; Krollilja rödlila
+ 590 ; blomster ; Krollilja, vit
+ 590 1338 3095 ; blomster ; Liten tagetes
+ 1338 ; blomster ; Mose brinnande buske
+ 2473 ; blomster ; Myskmalva
+ 1438 ; blomster ; Stor rödmalva 'Bibor Felho'
+ 2010 ; bär ; Tzimbalo
