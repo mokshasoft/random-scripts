@@ -1,6 +1,5 @@
  305 ; bondböna ; Rönnäs
  305 ; trädgårdsärt ; Alfta
- 305 2167 2168 2605 2730 3095 ; trädgårdsärt ; Rättviksärt
  305 ; vitkål ; Säfstaholm
  305 ; kålrot ; Klint Karin
  305 ; kålrot ; Ljustorp
@@ -8,8 +7,6 @@
 
  1625 ; målla ; Rubra
  1625 ; bladgrönt ; Löktrav
- 1338 1625 2010 2980G ; bladgrönt ; Malabarspenat
- 1338 1517 1625 1711 1941 2251 2395 2477 2617 ; övrig lök ; Piplök
  1625 ; övrig lök ; Rosenlök
  1625 ; krydd ; Fjällkvanne
  1625 ; blomster ; Kirgislök
@@ -27,6 +24,8 @@
  590 1338 3095 ; blomster ; Liten tagetes
 
  1338 ; blomster ; Mose brinnande buske
+ 1338 1625 2010 2980G ; bladgrönt ; Malabarspenat
+ 1338 1517 1625 1711 1941 2251 2395 2477 2617 ; övrig lök ; Piplök
 
  1305 ; krydd ; Citronmålla
  1305 3106 ; krydd ; Kvanne
@@ -39,6 +38,7 @@
  162 1294 2609 ; medicinal ; Tobak 'Mor Alida'
 
  2168 2174 3007 3095 3337 ; trädgårdsärt ; Biskopens ärtor
+ 305 2167 2168 2605 2730 3095 ; trädgårdsärt ; Rättviksärt
 
  264 ; kokböna ; Emperor of Russia
  264 ; krydd ; Koriander
