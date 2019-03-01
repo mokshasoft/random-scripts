@@ -43,10 +43,13 @@
  264 ; krydd ; Persilja 'Mosskrusig'
 
  2010 ; bär ; Tzimbalo
+ 2010 ; tomat ; Medok
+ 2010 ; tomat ; Zolotoy Serbeste
 
  1941 3098 ; bladgrönt ; Rankspenat
 
  948 ; krydd ; Skörbjuggsört
+ 948 1225 1305 2010 2595 3110 ; medicinal ; Mariatistel
 
  3772 ; medicinal ; Tobak 'Perique'
  3772 ; medicinal ; Tobak 'Åhustobak'
@@ -55,14 +58,18 @@
  1660 3161 ; krydd ; Persiljia 'Gigante d´Italia'
 
  3106 ; medicinal ; Ålandsrot
+ 3106 ; blommor ; Kinesisk smörboll
 
  3089 ; Melon ; Early Silver Line
 
  307 ; pumpa ; Fikonbladspumpa
  307 1517 ; mangold ; Perpetual Spinach
+ 307 ; sallat ; Rough d`Hiver
+ 307 ; mangold ; Spenatbeta
 
  257 ; målla ; Japansk spenat
  257 ; beta ; Criewener Gelbe
+ 257 ; bladgrönt ; Lungrot
 
  2473 ; krydd ; Björnrot
  2473 ; blomster ; Myskmalva
@@ -71,28 +78,37 @@
  1978 ; krydd ; Strandloka
 
  162 ; kokärt ; Gaperhult
+ 162 ; trädgårdsbönor ; Phänomen
+ 162 ; kokböna ; Stor Röd Forell
 
  3461 ; medicinal ; Röd solhatt
 
  2255 2880 ; grönkål ; Baltisk röd
+ 2255 ; grönkål ; Halvhög krusig
 
  2828 ; blomsterböna ; Enorma
+ 2828 ; sockerärt ; Tidig Sabel, Kvithamar I
 
  2800 ; bladgrönt ; Trädgårdsportlak
+ 2800 ; bladgrönt ; Röd malabarspenat
+ 2800 ; tomat ; Zyska
+ 2800 ; äggplanta ; Röd aubergine 'Nakati'
+ 2800 ; tomat ; Yantarnyi
 
  2456 ; potatislök ; Beddinge
-
- 2075 ; kokböna ; Caffer
+ 2456 ; potatislök ; Skättilljunga
 
  1986 ; beta ; Edmunds Blood
+ 1986 ; beta ; Nina
 
  175 ; blomsterböna ; Silute
+ 175 ; målla ; Gräne
+ 175 ; kokärt ; Liepaja
 
  1438 ; blomster ; Stor rödmalva 'Bibor Felho'
 
- 1377 ; krydd ; Persilja 'Extra mosskrusig'
-
- 1245 ; svartrot ; Geante Noire de Russie
-
  112 ; kokböna ; Bert Goodwin
+ 112 ; trädgårdsböna ; Red Valentine
+ 112 ; trädgårdsböna ; Sangre de Toro
+ 112 ; kokböna ; Sloalycke
 
