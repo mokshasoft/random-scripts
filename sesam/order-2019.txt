@@ -3,7 +3,6 @@
  305 ; vitkål ; Säfstaholm
  305 ; kålrot ; Klint Karin
  305 ; kålrot ; Ljustorp
- 305 ; kålrot ; Sandvik
 
  1625 ; målla ; Rubra
  1625 ; bladgrönt ; Löktrav
@@ -12,7 +11,6 @@
  1625 ; blomster ; Kirgislök
 
  43 ; endivesallat ; Golda
- 43 ; endivesallat ; Wagners Goldherz
  43 ; bladgrönt ; Bärmålla
  43 2478 2613 ; bladgrönt ; Spenatskräppa
  43 ; övrig lök ; Prärielök
@@ -76,31 +74,17 @@
 
  3461 ; medicinal ; Röd solhatt
 
- 3036 ; gurka ; Northern Pickling
-
- 2980 ; målla ; Sinanders
-
- 2958 ; målla ; Ruby Red
-
  2255 2880 ; grönkål ; Baltisk röd
 
  2828 ; blomsterböna ; Enorma
 
  2800 ; bladgrönt ; Trädgårdsportlak
 
- 2665 ; säd ; Vipphirs
-
  2456 ; potatislök ; Beddinge
-
- 2452 ; bladgrönt ; Blodskräppa
 
  2075 ; kokböna ; Caffer
 
  1986 ; beta ; Edmunds Blood
-
- 1932 ; bladgrönt ; Kryddkrasse 'Wrinkled Crinkled Cress'
-
- 1817 ; bladgrönt ; Smörgåskrasse, bredbladig
 
  175 ; blomsterböna ; Silute
 
@@ -109,8 +93,6 @@
  1377 ; krydd ; Persilja 'Extra mosskrusig'
 
  1245 ; svartrot ; Geante Noire de Russie
-
- 1141 ; krydd ; Gurkört
 
  112 ; kokböna ; Bert Goodwin
 
