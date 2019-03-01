@@ -5,7 +5,6 @@
  2828 ; blomsterböna ; Enorma
  175 ; blomsterböna ; Silute
  305 ; bondböna ; Rönnäs
- 2880G ; bondböna ; Ösel
  112 ; kokböna ; Bert Goodwin
  2075 ; kokböna ; Caffer
  264 ; kokböna ; Emperor of Russia
@@ -34,22 +33,17 @@
  43 2478 2613 ; bladgrönt ; Spenatskräppa
  2800 ; bladgrönt ; Trädgårdsportlak
  2456 ; potatislök ; Beddinge
- 924G ; övrig lök ; Kinesisk gräslök
  1338 1517 1625 1711 1941 2251 2395 2477 2617 ; övrig lök ; Piplök
  43 ; övrig lök ; Prärielök
- 922G 1625 ; övrig lök ; Rosenlök
- 257G ; beta ; Bordo
+ 1625 ; övrig lök ; Rosenlök
  257 ; beta ; Criewener Gelbe
  1986 ; beta ; Edmunds Blood
  305 ; kålrot ; Klint Karin
  305 ; kålrot ; Ljustorp
  305 ; kålrot ; Sandvik
- 1638G ; rova ; Korova
- 1638G ; rova ; Svedjerova från Värmland
  1245 ; svartrot ; Geante Noire de Russie
  3161 ; rötter ; Rapunkelklocka
  43 ; rötter ; Sockerrot
- 3161G ; rötter ; Yacon
  2665 ; säd ; Vipphirs
  2473 ; krydd ; Björnrot
  1305 ; krydd ; Citronmålla
