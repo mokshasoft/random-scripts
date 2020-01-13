@@ -9,4 +9,6 @@ dos2unix |
   grep -E "^#VER|^#TRANS" |
   tr -d "{}" |
   awk -F ' ' '{if ($1 == "#VER") {$1=$2=$3=$NF=""; gsub(/^[ \t]+/,"",$0); print $0} else {print $0}}' |
-  awk '{if ($1 == "#TRANS") {print "  " $2 " " $3} else {print $0}}'
+  awk '{if ($1 == "#TRANS") {print "  " $2 "  " $3} else {print $0}}' |
+  sed 's/^[^\ ].../&-/g' | sed 's/^[^\ ]....../&-/g' |
+  sed 's/"//g'
